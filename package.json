@@ -1,8 +1,8 @@
 {
-  "name": "hyperdrive-archive-swarm",
+  "name": "hyperdrive-archive-swarm-browserify",
   "version": "4.1.6",
   "description": "Join the p2p swarm for the given hyperdrive archive",
-  "main": "index.js",
+  "main": "browser/build.js",
   "scripts": {
     "test": "standard && node test.js"
   },
